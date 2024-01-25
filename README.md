@@ -2,7 +2,8 @@
 #### Eu sou a Elisa, tenho 19 anos e sou estuante de programção. 💻
 #### Vou utilizar o github como portifólio para códigos e projeots de estudos e pessoais.
 
-## 📒 SKILS :
+### 📒 SKILS :
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,5 +28,7 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
 </div>
+
+#
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)
