@@ -1,6 +1,6 @@
 ## WELCOME!
 #### Eu sou a Elisa, tenho 19 anos e sou estuante de programção. 💻
-#### Vou utilizar o github como portifólio para códigos e projeots de estudos e pessoais.
+#### Vou utilizar o github como portifólio para códigos e projetos de estudos e pessoais.
 
 ### 📒 SKILS :
 
