@@ -38,7 +38,8 @@ Abaixo deixo o link do meu Github para que possam conhecer um pouco mais dos meu
 
 #
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElisaaMartins&show_icons=true&theme=radical)
+![Elisa Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)
