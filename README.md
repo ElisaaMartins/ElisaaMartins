@@ -6,7 +6,8 @@ Eu sou a Elisa, tenho 20 anos e sou graduanda no curso de 'Desenvolvimeto de Sof
 E vou utilizar o github como portifólio para códigos e projetos de estudos e pessoais.
 
 Abaixo deixo o link do meu Github para que possam conhecer um pouco mais dos meus projetos
-[![GitHub](https://img.shields.io/badge/GitHub-ElisaaMartins-181717?style=for-the-badge&logo=github)](https://github.com/ElisaaMartins)
+
+# [![GitHub](https://img.shields.io/badge/GitHub-ElisaaMartins-181717?style=for-the-badge&logo=github)](https://github.com/ElisaaMartins)
 
 ### 🛠️ Habilidades:
 
