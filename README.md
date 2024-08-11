@@ -11,7 +11,7 @@ Abaixo deixo o link do meu Github para que possam conhecer um pouco mais dos meu
 
 Deixo também meu linkedin
 
-# [![Linkedin](https://img.shields.io/badge/Linkedin-ElisaaMartins-181717?style=for-the-badge&logo=github)](https://www.linkedin.com/in/elisa-martins-/)
+# [![Linkedin](https://img.shields.io/badge/Linkedin-Elisa Martins-181717?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisa-martins-/)
 
 ### 🛠️ Habilidades:
 
