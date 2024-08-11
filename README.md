@@ -1,11 +1,11 @@
-## WELCOME!
+## BEM VINDOS!
 
-## 📝 Sobre mim:
+### 📝 Sobre mim:
 
 #### Eu sou a Elisa, tenho 20 anos e sou graduanda no curso de 'Desenvolvimeto de Software Multiplataforma'. 💻
 #### Vou utilizar o github como portifólio para códigos e projetos de estudos e pessoais.
 
-## 🛠️ Habilidades:
+### 🛠️ Habilidades:
 
 <div style="display: inline_block"><br>
   
