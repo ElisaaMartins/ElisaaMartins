@@ -9,7 +9,7 @@ Abaixo deixo o link do meu Github para que possam conhecer um pouco mais dos meu
 
 # [![GitHub](https://img.shields.io/badge/GitHub-ElisaaMartins-181717?style=for-the-badge&logo=github)](https://github.com/ElisaaMartins)
 
-Deixo também meu linkedin
+Deixo também meu linkedin, caso queiram entrar em contato!
 
 # [![LinkedIn](https://img.shields.io/badge/LinkedIn-ElisaMartins-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisa-martins-/)
 
