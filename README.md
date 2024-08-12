@@ -2,7 +2,7 @@
 
 ### 📝 Sobre mim:
 
-Eu sou a Elisa, tenho 20 anos e sou graduanda no curso de 'Desenvolvimeto de Software Multiplataforma'. 
+Eu sou a Elisa, tenho 20 anos e estou cursando 'Desenvolvimeto de Software Multiplataforma'. 
 Irei utilizar o github como portifólio para códigos e projetos de estudos e pessoais.
 
 Abaixo deixo o link do meu Github para que possam conhecer um pouco mais dos meus projetos: 
