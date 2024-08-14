@@ -41,4 +41,4 @@ Irei utilizar o github como portifólio para códigos e projetos de estudos e pe
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)
