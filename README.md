@@ -41,4 +41,4 @@ Deixo também meu linkedin, caso queiram entrar em contato!
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true&theme=radical)
