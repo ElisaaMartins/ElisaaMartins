@@ -22,7 +22,7 @@ Deixo também meu linkedin, caso queiram entrar em contato!
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
-  <img align="center" alt="" height="30" width="35" src="https://www.python.org/static/favicon.ico">
+  <img align="center" alt="" height="30" width="30" src="https://www.python.org/static/favicon.ico">
 
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
