@@ -1,44 +1,21 @@
-## BEM VINDOS!
+<img align="right" height="360px" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" alt="Ilustração de programador(a)" />
 
-### 📝 Sobre mim:
+# Elisa Martins
 
-Eu sou a Elisa, tenho 20 anos e estou cursando 'Desenvolvimeto de Software Multiplataforma'. 
-Irei utilizar o github como portifólio para códigos e projetos de estudos e pessoais.
+**🖥️ Desenvolvedora em Construção**
 
-🔗 Abaixo deixo o link do meu Github para que possam conhecer um pouco mais dos meus projetos: 
+Formada em Técnico de Informática para Internet. Foi durante o curso que comecei a explorar HTML, CSS e JavaScript. 
+Desde então, a paixão por criar soluções tecnológicas só cresceu. Hoje, utilizo o GitHub para compartilhar meus estudos e projetos pessoais.
 
-# [![GitHub](https://img.shields.io/badge/GitHub-ElisaaMartins-181717?style=for-the-badge&logo=github)](https://github.com/ElisaaMartins)
 
-💼 Deixo também meu linkedin, caso queiram entrar em contato!
+### Connect with me
 
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-ElisaMartins-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisa-martins-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=d800d1)](https://linkedin.com/in/elisa-martins)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=d800d1)]("https://github.com/ElisaaMartins)
 
-### 🛠️ Habilidades:
+### GitHub Stats
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="" height="30" width="30" src="https://www.python.org/static/favicon.ico">
-
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
-  <img align="center" alt="" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-
-</div>
-
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElisaaMartins&show_icons=true&title_color=d800d1&icon_color=d800d1&text_color=ffffff&bg_color=0d1117&hide_title=true&hide=issues)
+&nbsp; 
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true&title_color=d800d1&icon_color=d800d1&text_color=ffffff&bg_color=0d1117) 
